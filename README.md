@@ -21,9 +21,11 @@ https://groupmoji.github.io/moji-assets/bimi/moji.svg
 ---
 
 ## 📁 Structure
-/bimi/        → BIMI-specific logos (SVG Tiny PS)
-/logos/       → General-purpose logos and icons
-/email/       → Images used in email communications
+/bimi/  – BIMI-specific logos (SVG Tiny PS)
+ 
+/logos/ – General-purpose logos and icons
+
+/email/ – Images used in email communications
 
 ---
 
